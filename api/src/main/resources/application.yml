@@ -1,0 +1,4 @@
+spring.application.name: employee-api
+server.port: 8111
+api.base.url: http://localhost:8112/api/v1
+basePathV1: /api/v1

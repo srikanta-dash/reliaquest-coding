@@ -1,0 +1,11 @@
+{
+  "data": {
+    "id": "a997c71d-6c50-4434-8af6-81ae8507ff09",
+    "employee_name": "Marica Strosin",
+    "employee_salary": 132373,
+    "employee_age": 24,
+    "employee_title": "Retail Representative",
+    "employee_email": "ronstring@company.com"
+  },
+  "status": "Successfully processed request."
+}
